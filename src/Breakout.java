@@ -34,7 +34,8 @@ public class Breakout extends GraphicsProgram {
     private Paddle paddle;
     private int lives = 3;
     private GLabel playersLabel;
-
+    // this is the change I want
+    
 
 
 
